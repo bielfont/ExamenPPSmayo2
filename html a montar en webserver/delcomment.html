@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Borrar Comentarios Usuario</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    
+</head>
+<body>
+    <h1>Formulario Borrar Comentario del usuario Autentificado</h1>
+    <fieldset>
+
+        <form action="https://127.0.0.1:8443/api/delcommentuser" method="post" name="user_form">
+            <div>
+                <label for="num_comment">Numero del Comentario</label>
+                <input type="number" id="num_comment" name="num_comment" placeholder="Escriba el numero del comentario a borrar">
+
+            </div>
+    
+            <div>
+                <input type="submit" value="Borrar Comentario">
+            </div>
+
+        </form>
+    </fieldset>
+</body>
+</html>

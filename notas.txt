@@ -1,0 +1,12 @@
+https://www.guru99.com/sqlite-primary-foreign-key-tutorial.html
+
+https://stackoverflow.com/questions/53084827/sqlite-foreign-key-constraint-not-being-triggered-from-nodejs-javascript
+
+
+
+https://stackoverflow.com/questions/6953286/how-to-encrypt-data-that-needs-to-be-decrypted-in-node-js
+
+https://obfuscator.io/
+
+
+
